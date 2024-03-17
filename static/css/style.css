@@ -1,0 +1,26 @@
+/* Signup Dashboard CSS */
+.gradient-heading {
+    font-size: 27px;
+    background: linear-gradient(45deg, rgb(196, 46, 46), rgb(0, 0, 0));
+    background-clip: text;
+    -webkit-background-clip: text; /* For older webkit browsers */
+    color: transparent;
+    font-weight: bolder;
+}
+.gradient-div1 {
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(252, 251, 121) 90%);        
+}
+.gradient-div2 {
+    background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%);        
+}
+.gradient-div3 {
+    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.gradient-div4 {
+    background: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+}
+/* Header CSS */
+.nav-gradient {
+    background: radial-gradient(circle at 10% 20%, rgb(255, 252, 214) 0%, rgba(255, 102, 102, 0.44) 90%);
+}
+
